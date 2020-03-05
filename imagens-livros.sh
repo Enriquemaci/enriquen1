@@ -12,6 +12,7 @@ do
 	convert $imagem $img_sem_ext.png
 done
 
+	echo "Finalizado."
 cd ..
 
 #autor:Enrique
